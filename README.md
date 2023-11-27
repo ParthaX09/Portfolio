@@ -7,6 +7,7 @@ Link--->https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css<br>
 Fonts used from Google apis<br>
 Link--->https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap
 <br>
+<br>
 To view the webpage
 <br>
 Link---> https://parthax09.github.io/Portfolio/
